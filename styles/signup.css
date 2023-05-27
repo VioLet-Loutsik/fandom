@@ -1,0 +1,10 @@
+.signup-block {
+    border: 5px solid rgb(45, 28, 9);
+    height: 100vh;
+    background-color: rgb(209, 182, 157);
+    text-align: center;
+    padding: 100px;
+}
+input {
+   margin: 5px;
+}
